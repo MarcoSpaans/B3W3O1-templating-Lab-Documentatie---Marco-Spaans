@@ -1,0 +1,1 @@
+uitleg en voorbeeldingen van verschillende php codes en functies

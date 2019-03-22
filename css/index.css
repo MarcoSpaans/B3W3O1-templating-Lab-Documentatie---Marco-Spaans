@@ -1,0 +1,16 @@
+img#marco {
+  height: 40%;
+  width: 40%;
+}
+
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+
+  @media screen and (max-width:600px) {
+    img#marco {
+      height: 100%;
+      width: 100%;
+    }
+  }
